@@ -310,10 +310,10 @@ def Toolx():
 		else:
 			Toolx()
 
-def Tool_X Horas():
+def Tool_X():
 	try:
 		Toolx()
 	except KeyboardInterrupt:
 		Ux()
 		Aex()
-Tool_X Horas()
+Tool_X()
