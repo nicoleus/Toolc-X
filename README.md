@@ -31,9 +31,9 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `git clone https://github.com/nicoleus/Toolc-X`
 
-* `cd Tool-X`
+* `cd Toolc-X`
 
 * `chmod +x install.aex`
 
